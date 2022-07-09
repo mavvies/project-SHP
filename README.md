@@ -1,10 +1,18 @@
 一.介绍
 1.项目描述
-此项目为在线电商Web App的前台项目，包括首页, 搜索列表, 商品详情, 购物车, 订单, 支付, 用户登陆/注册等多个子模块
+此项目为在线电商Web App的前台项目，
+包括首页, 搜索列表, 商品详情, 购物车, 
+订单, 支付, 用户登陆/注册等多个子模块。
 采用模块化、组件化、工程化的模式将静态页面和组件开发成vue模块。
+
 2.项目功能界面
 ![image](https://github.com/mavvies/project-SHP/blob/main/%E7%95%8C%E9%9D%A2%E5%9B%BE%E7%89%87/img1.png)
+
 3.技术选型
+![image](https://github.com/mavvies/project-SHP/blob/main/%E7%95%8C%E9%9D%A2%E5%9B%BE%E7%89%87/img2.png)
+
+4.前端路由
+![image](https://github.com/mavvies/project-SHP/blob/main/%E7%95%8C%E9%9D%A2%E5%9B%BE%E7%89%87/img3.png)
 
 二.打开方式
 第一步：npm install
